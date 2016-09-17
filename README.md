@@ -1,0 +1,2 @@
+# Code_network_ensembles
+This repository contains a Matlab implementation for the calculation of network entropy for the spatial ensemble (spatial:m) and the configuration ensemble (configuration:m), also implemented in a parallel computing version requiring the Matlab Parallel Toolbox (spatialp:m and configurationp:m respectively). The python code (networkentropy:py) is a small library that gathers together the different ensemble calculations as functions, only in a parallelized version.
