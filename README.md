@@ -13,3 +13,5 @@ If you use this code you should cite:
 
 http://pubs.rsc.org/en/Content/ArticleLanding/2015/MB/C5MB00143A#!divAbstract
 
+Further details and toy models in the supplementary materials.
+
